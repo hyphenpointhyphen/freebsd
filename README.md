@@ -9,4 +9,7 @@ Tab Programs allows selection, applying a
 allows default for window mode (great for a multiscreen workplace)
 
 # some useful links for thinkpadish freebsd
+
+https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/
+
 https://akos.ma/blog/how-to-install-freebsd-14-on-a-6th-generation-thinkpad/
