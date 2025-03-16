@@ -13,3 +13,9 @@ allows default for window mode (great for a multiscreen workplace)
 https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/
 
 https://akos.ma/blog/how-to-install-freebsd-14-on-a-6th-generation-thinkpad/
+
+https://github.com/stiiifff/freebsd-x230-config/blob/master/etc/sysctl.conf
+
+https://cyber.dabamos.de/unix/x230/#screen-brightness
+
+https://cooltrainer.org/a-freebsd-desktop-howto/#install-fonts
